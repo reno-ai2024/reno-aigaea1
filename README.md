@@ -17,8 +17,8 @@ This is a proxy manager script that interacts with Aigaea's API, allowing you to
 1. **Clone the repository or download the script**:
 
     ```bash
-    git clone https://github.com/FlexRex69/aigaea-bot.git
-    cd aigaea-bot
+    git clone https://github.com/reno-ai2024/reno-aigaea1.git
+    cd reno-aigaea1
     ```
 
 2. **Install dependencies**:
