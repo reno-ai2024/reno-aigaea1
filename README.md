@@ -37,6 +37,10 @@ This is a proxy manager script that interacts with Aigaea's API, allowing you to
 
 
 ## Access Token and first 8 browserID
+```
+console.log('gaea_token:', localStorage.gaea_token);
+console.log('browser_id (first 8 chars):', (localStorage.browser_id || '').slice(0, 8));
+```
 - You can obtain your token and browser id from the [Aigaea Dashboard](https://app.aigaea.net/register?ref=gaLJgOow9zDQN0).
 
   ![gaea-token](image-1.png)
